@@ -1,0 +1,14 @@
+# Idea folder
+.idea
+# Node Modules
+node_modules
+# Env file
+.env
+.env.*
+!.env.dist
+# CDK bootstrap
+cdk.out
+# Jest coverage
+/coverage
+/tmp
+template.yaml
