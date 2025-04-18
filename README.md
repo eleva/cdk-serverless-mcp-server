@@ -14,12 +14,13 @@ This skeleton is based on the awesome work of [Frédéric Barthelet](https://git
 cdk-serverless-mcp-server/
 ├── __tests__/                              # Jest tests
 ├── bin/                                    # CDK entry point
-├── cdk-serverless-mcp-server.ts                # CDK config
+├── cdk-serverless-mcp-server.ts                # CDK app
 ├── lib/                                    # CDK stack
 │   └── cdk-serverless-mcp-server-stack.ts      # CDK stack
 ├── src/                                    # Source code
 │   └── index.js                                # MCP server handler
 ├── .gitignore                              # Git ignore file
+├── cdk.json                                # CDK Project config
 ├── package.json                            # Project dependencies
 ├── package-lock.json                       # Project lock file
 ├── README.md                               # This documentation file
