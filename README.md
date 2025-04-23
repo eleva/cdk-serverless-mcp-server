@@ -3,8 +3,9 @@ A super simple Model Context Protocol (MCP) server deployed on AWS Lambda and ex
 This skeleton is based on the awesome work of [Frédéric Barthelet](https://github.com/fredericbarthelet): which has developed a middy middleware for Model Context Protocol (MCP) server integration with AWS Lambda functions in [this repo](https://github.com/fredericbarthelet/middy-mcp)
 
 ## Long story
-📖[Read the full article here on dev.to](https://dev.to/aws-builders/from-serverless-framework-to-aws-cdk-rebuilding-our-minimal-serverless-mcp-server-1232)
-📖[Read the first article of the series here on dev.to](https://dev.to/aws-builders/deploy-a-minimal-mcp-server-on-aws-lambda-with-serverless-framework-3e42)
+- 📖 [Read the full article here on dev.to](https://dev.to/aws-builders/from-serverless-framework-to-aws-cdk-rebuilding-our-minimal-serverless-mcp-server-1232)
+- 📖 [Read the first article of the series here on dev.to](https://dev.to/aws-builders/deploy-a-minimal-mcp-server-on-aws-lambda-with-serverless-framework-3e42)
+
 
 ## 🛠 Features
 - 🪄 Minimal MCP server setup using @modelcontextprotocol/sdk
